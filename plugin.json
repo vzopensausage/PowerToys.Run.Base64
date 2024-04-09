@@ -1,0 +1,14 @@
+{
+  "ID": "dbdb6a0e-375c-4621-ba38-634940024be6",
+  "ActionKeyword": "b64",
+  "Disabled": false,
+  "IsGlobal": false,
+  "Name": "Base 64",
+  "Author": "",
+  "Version": "0.0.1",
+  "Language": "csharp",
+  "Website": "",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.Base64.dll",
+  "IcoPathDark": "Images\\Base64.png",
+  "IcoPathLight": "Images\\Base64.png"
+}

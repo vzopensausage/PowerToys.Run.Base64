@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{11C273DA-AD0D-431C-B658-102874160ACA}") = "PowerToys.Run.Base64", "PowerToys.Run.Base64.csproj", "{11C273DA-AD0D-431C-B658-102874160ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C273DA-AD0D-431C-B658-102874160ACA}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{11C273DA-AD0D-431C-B658-102874160ACA}.Debug|Any CPU.Build.0 = Debug|x64
+		{11C273DA-AD0D-431C-B658-102874160ACA}.Release|Any CPU.ActiveCfg = Release|x64
+		{11C273DA-AD0D-431C-B658-102874160ACA}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
